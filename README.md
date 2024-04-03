@@ -1,5 +1,5 @@
 # Employee Database Analysis using SQL
-
+ 
 This project focuses on analyzing an employee database using SQL queries. The database contains various tables such as employees, departments, salaries, titles, and more, which are interconnected with each other through primary and foreign keys. By utilizing SQL queries, we can extract meaningful insights and generate valuable reports from this database.
 
 ## Project Structure
