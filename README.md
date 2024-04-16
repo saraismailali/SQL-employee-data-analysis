@@ -6,5 +6,5 @@ This project focuses on analyzing an employee database using SQL queries. The da
   
 - **SQL Scripts:** This directory contains all the SQL scripts used for querying the employee database. 
 - **Reports:** This directory includes generated reports and analysis based on the SQL queries.   
-- **README.md:** Provides an overview of the project, instructions for running queries, and insights gained from the analysis.  
+- **README.md:** Provides an overview of the project, instructions for running queries, and insights gained from the analysis.    
    
